@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tappsi_Test</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_albums">AlbumsActivity</string>
+    <string name="gfy_client_id">
+        2_rz4Ziz
+    </string>
+    <string name="gfy_client_secret">
+        YR-gntnAzXRmanSBjaGQA2kFM3bSe5zk5fE9ae7G2h6pnova9xoZimyY8uVQiYdX
+    </string>
+    <string name="gfy_grant_type">
+        password
+    </string>
+    <string name="gfy_auth_url">
+        https://api.gfycat.com/v1/oauth/token
+    </string>
+    <string name="gfy_username">
+        alexzandros
+    </string>
+    <string name="gfy_password">
+        esemp75
+    </string>
+</resources>
